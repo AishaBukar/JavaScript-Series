@@ -36,3 +36,6 @@ const myString = "This is the start." + " This is the end.";
 
 let myVar= "This is the first sentence. ";
 myVar +="This is the second sentence."
+
+let myName = "Aisha Bukar Awobadejo";
+const var1 = "My name is " + myName + " and I am well";
