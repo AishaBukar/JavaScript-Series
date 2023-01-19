@@ -33,3 +33,6 @@ const myStr = "FirstLine\n\t\\SecondLine\nThirdLine";
 
 // Concatenating two strings
 const myString = "This is the start." + " This is the end."; 
+
+let myVar= "This is the first sentence. ";
+myVar +="This is the second sentence."
