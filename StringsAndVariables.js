@@ -29,3 +29,7 @@ const myVariable = 'Hey there, \'dont do this\'';
 const singleQuote= 'I am trying to embed a "double quote" in a single quote';
 
 
+const myStr = "FirstLine\n\t\\SecondLine\nThirdLine";
+
+// Concatenating two strings
+const myString = "This is the start." + " This is the end."; 
