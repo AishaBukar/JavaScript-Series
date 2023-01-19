@@ -39,3 +39,16 @@ myVar +="This is the second sentence."
 
 let myName = "Aisha Bukar Awobadejo";
 const var1 = "My name is " + myName + " and I am well";
+// We can also find the lenghth
+console.log(var1.length);
+
+const someAdjective = "amazing";
+let var2 = "Learning to code is ";
+var2 += someAdjective;
+
+//Finding first characters
+let firstLetterOfLastName = "";
+const lastName = "Bukar";
+
+firstLetterOfLastName = lastName[0]; 
+
