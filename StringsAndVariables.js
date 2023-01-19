@@ -19,3 +19,13 @@ myDiv /=1;
 myAdd =+1;
 mySub -=5;
 myMult *=4;
+
+//Escaping literal quotes in strings (Not advisable)
+const myQuote = "My name is Aisha and I am trying to \"embed a quote\" in another quote.";
+
+const myVariable = 'Hey there, \'dont do this\'';
+
+// Quoting strings with single quotes instead
+const singleQuote= 'I am trying to embed a "double quote" in a single quote';
+
+
